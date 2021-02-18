@@ -1,0 +1,7 @@
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_7\bin\Debug\Coding_Exercise_7.exe.config
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_7\bin\Debug\Coding_Exercise_7.exe
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_7\bin\Debug\Coding_Exercise_7.pdb
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_7\obj\Debug\Coding_Exercise_7.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_7\obj\Debug\Coding_Exercise_7.exe
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_7\obj\Debug\Coding_Exercise_7.pdb
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_7\obj\Debug\Coding_Exercise_7.csprojAssemblyReference.cache

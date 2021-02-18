@@ -1,0 +1,7 @@
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_4\bin\Debug\Coding_Exercise_4.exe.config
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_4\bin\Debug\Coding_Exercise_4.exe
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_4\bin\Debug\Coding_Exercise_4.pdb
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_4\obj\Debug\Coding_Exercise_4.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_4\obj\Debug\Coding_Exercise_4.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_4\obj\Debug\Coding_Exercise_4.exe
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_4\obj\Debug\Coding_Exercise_4.pdb

@@ -1,0 +1,6 @@
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_2\bin\Debug\Coding_Exercise_2.exe.config
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_2\bin\Debug\Coding_Exercise_2.exe
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_2\bin\Debug\Coding_Exercise_2.pdb
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_2\obj\Debug\Coding_Exercise_2.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_2\obj\Debug\Coding_Exercise_2.exe
+C:\Users\Chris\source\repos\Coding Exercise 1\Coding_Exercise_2\obj\Debug\Coding_Exercise_2.pdb
